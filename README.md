@@ -40,11 +40,12 @@
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
 
 
+
 ## 📈 GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=ku-uhaku&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hajra-Khattak&show_icons=true&theme=dark"/>
 
 ### Total contributions and streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ku-uhaku&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hajra-Khattak&theme=dark"/>
 
 ### Most used languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ku-uhaku&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hajra-Khattak&theme=dark"/>
