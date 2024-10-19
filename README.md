@@ -1,6 +1,11 @@
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Hajra Khattak </h1>
 <h3 align="center">A fullstack developer </h3>
 
+<div align="center">
+<!--   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes" /> -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cache-buster=${Math.random()}" alt="GitHub Readme Quotes" />
+</div>
+<h3 align="center">"Believe you can and you're halfway there." - Theodore Roosevelt</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ku-uhaku&label=Profile%20Views&color=blueviolet&style=flat-square" alt="hajra-khattak" />
 </p>
@@ -19,6 +24,15 @@
 <a href="https://discord.com/channels/963277401238933566" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
 </p>
+
+## 🚀 About Me:
+🚀 Passionate about solving real-world problems through code and exploring innovative technologies.  
+🌱 Always eager to deepen my understanding of systems and algorithms, one project at a time.  
+💻 Constantly challenging myself with new concepts, while sharing what I learn with the dev community.  
+👀 Focused on clean, scalable, and maintainable code that makes a difference.
+👨‍💻 Always curious about innovative solutions and exploring new tech.
+🔍 Obsessed with solving real-world problems through the power of technology.
+
 
 ## 🔧 Technologies & Tools
 
