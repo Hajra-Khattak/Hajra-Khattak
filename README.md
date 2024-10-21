@@ -61,8 +61,11 @@
 ## 📈 GitHub stats
 <img src="https://github-readme-stats.vercel.app/api?username=Hajra-Khattak&show_icons=true&theme=dark"/>
 
+
 ### Total contributions and streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hajra-Khattak&theme=dark"/>
+<!--
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hajra-Khattak&theme=dark"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hajra-Khattak&theme=dark" alt="GitHub Streak Stats" />
 
 ### Most used languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hajra-Khattak&theme=dark"/>
